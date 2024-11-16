@@ -1,0 +1,14 @@
+c:\Users\Marco\Desktop\Testes.Integracao\Main\bin\Debug\net8.0\New.Talents.exe
+c:\Users\Marco\Desktop\Testes.Integracao\Main\bin\Debug\net8.0\New.Talents.deps.json
+c:\Users\Marco\Desktop\Testes.Integracao\Main\bin\Debug\net8.0\New.Talents.runtimeconfig.json
+c:\Users\Marco\Desktop\Testes.Integracao\Main\bin\Debug\net8.0\New.Talents.dll
+c:\Users\Marco\Desktop\Testes.Integracao\Main\bin\Debug\net8.0\New.Talents.pdb
+c:\Users\Marco\Desktop\Testes.Integracao\Main\obj\Debug\net8.0\New.Talents.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Marco\Desktop\Testes.Integracao\Main\obj\Debug\net8.0\New.Talents.AssemblyInfoInputs.cache
+c:\Users\Marco\Desktop\Testes.Integracao\Main\obj\Debug\net8.0\New.Talents.AssemblyInfo.cs
+c:\Users\Marco\Desktop\Testes.Integracao\Main\obj\Debug\net8.0\New.Talents.csproj.CoreCompileInputs.cache
+c:\Users\Marco\Desktop\Testes.Integracao\Main\obj\Debug\net8.0\New.Talents.dll
+c:\Users\Marco\Desktop\Testes.Integracao\Main\obj\Debug\net8.0\refint\New.Talents.dll
+c:\Users\Marco\Desktop\Testes.Integracao\Main\obj\Debug\net8.0\New.Talents.pdb
+c:\Users\Marco\Desktop\Testes.Integracao\Main\obj\Debug\net8.0\New.Talents.genruntimeconfig.cache
+c:\Users\Marco\Desktop\Testes.Integracao\Main\obj\Debug\net8.0\ref\New.Talents.dll
